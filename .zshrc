@@ -19,3 +19,5 @@ setopt appendhistory
 unsetopt autocd beep
 bindkey -e
 # End of lines configured by zsh-newuser-install
+
+export PATH=~/bin:$PATH
