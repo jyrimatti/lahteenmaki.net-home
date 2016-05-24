@@ -7,4 +7,5 @@
 result
 .ssh
 .bash_history
-.zcompdump
+.zcompdump*
+.zsh_history
