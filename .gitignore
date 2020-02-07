@@ -1,4 +1,5 @@
 *~
+.cache
 .ghc
 .histfile
 .lesshst
