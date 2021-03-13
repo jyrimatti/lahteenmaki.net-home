@@ -12,3 +12,8 @@ result
 .zsh_history
 stiebel-user
 stiebel-pass
+.config/chromium/
+.config/google-chrome/
+.local/
+.mozilla/
+.pki/
