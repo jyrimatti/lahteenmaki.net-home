@@ -14,6 +14,8 @@ stiebel-user
 stiebel-pass
 .config/chromium/
 .config/google-chrome/
+.config/configstore/
+.npm
 .local/
 .mozilla/
 .pki/
