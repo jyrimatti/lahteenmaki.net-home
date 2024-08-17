@@ -19,3 +19,4 @@ stiebel-pass
 .local/
 .mozilla/
 .pki/
+.config/tarsnap/tarsnap.key 
