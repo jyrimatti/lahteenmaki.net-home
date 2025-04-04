@@ -3,3 +3,5 @@
 	name = Jyri-Matti Lähteenmäki
 [push]
 	default = simple
+[safe]
+	directory = /
