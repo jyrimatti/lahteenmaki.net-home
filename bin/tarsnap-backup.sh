@@ -1,5 +1,6 @@
-#! /usr/bin/env NIXPKGS_ALLOW_UNFREE=1 nix-shell
+#! /usr/bin/env nix-shell
 #! nix-shell -i dash -I channel:nixos-24.05-small -p dash tarsnap
+set -eu
 
 now="$(date +%Y-%m-%dT%H:%M:%S)"
 
